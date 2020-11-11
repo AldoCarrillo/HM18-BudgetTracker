@@ -1,7 +1,7 @@
 # HM18-BudgetTracker
 
 
-### Heroku Link: https://infinite-stream-70267.herokuapp.com/
+### Heroku Link: https://infinite-stream-70267.herokuapp.com/git 
 
 ### GitHub Repo: https://github.com/AldoCarrillo/HM18-BudgetTracker
 
